@@ -1,0 +1,3 @@
+# gitpractise
+
+Practise git operations
